@@ -1,29 +1,9 @@
-# README #
+# Abstract #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+• Dynamic Audio Sensors (DAS) are silicon sensors inspired by the biological cochlea.
 
-### What is this repository for? ###
+• DAS are more energy efficient than standard microphones.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+• The DAS has 64 audio frequency channels: each channel fires when there’s a spike in the corresponding frequency.
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+• We want to evaluate Spiking Neural Networks ability to classify sounds recorded with DAS.
