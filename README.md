@@ -8,4 +8,4 @@
 
 • We want to evaluate Spiking Neural Networks ability to classify sounds recorded with DAS.
 
-Please refer to Poster_V1.pdf for more presentation details of our work
+## Please refer to Poster_V1.pdf for more presentation details of our work
